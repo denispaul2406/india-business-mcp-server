@@ -1,7 +1,7 @@
 # Indian Contractor Compliance & Onboarding MCP Server 🇮🇳
 
 [![CI](https://github.com/denispaul2406/india-business-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/denispaul2406/india-business-mcp-server/actions/workflows/ci.yml)
-[![smithery badge](https://smithery.ai/badge/@denispaul/india-business-mcp-server)](https://smithery.ai/server/@denispaul/india-business-mcp-server)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.denispaul2406/india-business-mcp-server)](https://lightnow.ai/servers/io.github.denispaul2406/india-business-mcp-server)
 
 An open-source Model Context Protocol (MCP) server designed to streamline tax withholding (TDS), verification, and invoicing compliance when hiring and paying Indian freelance developers and independent contractors. Exposes public data APIs, local tax-compliance rules, and validation tools directly to LLM agents (like Claude Desktop or Cursor).
 
